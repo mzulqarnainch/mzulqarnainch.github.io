@@ -47,7 +47,7 @@ I'm **Muhammad Zulqarnain**, a results-driven **Lead Generation Expert** helping
 
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:mzulqarnain.text@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?logo=whatsapp&logoColor=white)](https://wa.me/923239672765)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/mzulqarnainch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white)](https://linkedin.com/in/mzulqarnainch)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)](https://facebook.com/mzulqarnaintext)
 [![Upwork](https://img.shields.io/badge/Upwork-green?logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~015b4bef450d508574)
 [![Twitter](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white)](https://x.com/mzulqarnainch)
