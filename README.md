@@ -70,3 +70,11 @@ I'm **Muhammad Zulqarnain**, a results-driven **Lead Generation Expert** helping
 👉 Let’s grow your business with powerful lead generation strategies  
 
 💬 **Message me on WhatsApp for quick response!**
+
+---
+
+## 💼 My Project 
+
+Click on Link ❤
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white)](https://linkedin.com/in/mzulqarnainch/details/projects)
+
